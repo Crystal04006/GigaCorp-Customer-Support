@@ -1,0 +1,46 @@
+{
+  "4471": {
+    "order_id": "4471",
+    "customer_name": "Priya Sharma",
+    "status": "In Transit",
+    "items": ["Wireless Keyboard", "USB-C Hub"],
+    "destination_country": "India",
+    "shipping_method": "Standard International",
+    "order_date": "2026-07-02",
+    "estimated_delivery": "2026-07-14",
+    "membership_tier": "Plus"
+  },
+  "5820": {
+    "order_id": "5820",
+    "customer_name": "Daniel Osei",
+    "status": "Delivered",
+    "items": ["Noise-Cancelling Headphones"],
+    "destination_country": "United States",
+    "shipping_method": "Express",
+    "order_date": "2026-07-05",
+    "estimated_delivery": "2026-07-06",
+    "membership_tier": "Premier"
+  },
+  "1193": {
+    "order_id": "1193",
+    "customer_name": "Maria Gonzalez",
+    "status": "Processing",
+    "items": ["Desk Lamp", "Cable Organizer Set"],
+    "destination_country": "Canada",
+    "shipping_method": "Standard International",
+    "order_date": "2026-07-10",
+    "estimated_delivery": "2026-07-22",
+    "membership_tier": "Basic"
+  },
+  "3307": {
+    "order_id": "3307",
+    "customer_name": "Wei Zhang",
+    "status": "Delayed - Customs Hold",
+    "items": ["Mechanical Keyboard"],
+    "destination_country": "India",
+    "shipping_method": "Express International",
+    "order_date": "2026-06-28",
+    "estimated_delivery": "2026-07-15 (revised from 2026-07-05)",
+    "membership_tier": "Plus"
+  }
+}

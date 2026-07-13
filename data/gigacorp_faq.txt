@@ -1,0 +1,59 @@
+# GigaCorp Customer Support FAQ
+
+## Shipping Policies
+
+GigaCorp ships to over 40 countries worldwide, including the United States, Canada, the United Kingdom, Germany, France, Australia, Japan, and India.
+
+Domestic shipments (within the United States) take 2-4 business days using Standard Shipping, or 1 business day using Express Shipping.
+
+International shipments, including to India, typically take 7-12 business days for Standard International Shipping, or 3-5 business days for Express International Shipping.
+
+Standard International Shipping to India costs a flat rate of $14.99 per order. Express International Shipping to India costs $34.99 per order. Orders over $75 qualify for free Standard International Shipping to any supported country.
+
+GigaCorp does not currently ship to Cuba, North Korea, Iran, or Syria due to international trade restrictions.
+
+All shipments include tracking numbers that are emailed to the customer within 24 hours of order dispatch. Customers can track their package using the "Track My Order" tool on the GigaCorp website.
+
+## Returns & Refunds
+
+GigaCorp offers a 30-day return window starting from the date of delivery for most products.
+
+To initiate a return, customers must log into their GigaCorp account, navigate to "Order History," select the item, and click "Start a Return." A prepaid return shipping label will be generated automatically for domestic orders.
+
+International customers, including those in India, are responsible for return shipping costs unless the item arrived damaged or defective, in which case GigaCorp covers the cost.
+
+Refunds are processed within 5-7 business days after the returned item is received and inspected at GigaCorp's warehouse. Refunds are issued to the original payment method.
+
+Items marked "Final Sale" or "Non-Returnable" at the time of purchase cannot be returned or exchanged.
+
+Exchanges for a different size or color are free of charge for domestic orders and can be requested through the same "Start a Return" flow by selecting "Exchange" instead of "Refund."
+
+## Business Hours
+
+GigaCorp's customer support team is available Monday through Friday, 8:00 AM to 8:00 PM Eastern Time, and Saturday, 9:00 AM to 5:00 PM Eastern Time. Support is closed on Sundays and major U.S. holidays.
+
+Live chat support is available during all business hours listed above. Phone support is available Monday through Friday, 9:00 AM to 6:00 PM Eastern Time only.
+
+Email support (support@gigacorp-example.com) is monitored 24/7, with responses typically sent within 12-24 hours.
+
+Warehouse and fulfillment operations run daily except Sundays and major holidays, which may affect same-day processing of orders placed late on Saturday.
+
+## Service Tiers
+
+GigaCorp offers three membership tiers: Basic, Plus, and Premier.
+
+Basic tier is free for all customers and includes standard shipping rates, a 30-day return window, and access to email support.
+
+Plus tier costs $9.99 per month or $99 per year. Plus members receive free Standard Shipping on all domestic orders, a 45-day return window, and priority email support with responses within 4 hours during business hours.
+
+Premier tier costs $19.99 per month or $199 per year. Premier members receive free Express Shipping on domestic orders and discounted Express International Shipping (50% off), a 60-day return window, priority phone and live chat support, and early access to sales events.
+
+Members can upgrade, downgrade, or cancel their tier at any time from the "Membership" section of their account settings. Downgrades take effect at the start of the next billing cycle; there are no partial refunds for early cancellation.
+
+## Order Issues & Damaged Items
+
+If an order arrives damaged, customers should report it within 7 days of delivery through the "Report an Issue" tool, including photos of the damaged item and packaging. GigaCorp will send a free replacement or issue a full refund, customer's choice.
+
+Lost packages (confirmed by the carrier as undeliverable or missing) are eligible for a free reshipment or full refund after a 10-business-day investigation period.
+
+Wrong or missing items should be reported within 14 days of delivery for a free correction shipment at no additional cost.

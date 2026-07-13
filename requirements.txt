@@ -1,0 +1,10 @@
+streamlit>=1.38
+langgraph>=0.2
+langchain>=0.3,<2.0
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-huggingface>=0.1
+langchain-anthropic>=0.3
+langchain-openai>=0.2
+faiss-cpu>=1.8
+sentence-transformers>=3.0
